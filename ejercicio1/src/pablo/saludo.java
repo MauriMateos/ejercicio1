@@ -16,6 +16,7 @@ public class saludo {
      */
     public static void main(String[] args) {
         System.out.println("hola chicos");
+        System.out.println("h");
     }
     
 }
