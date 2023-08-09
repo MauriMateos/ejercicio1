@@ -18,6 +18,8 @@ public class saludo {
         System.out.println("hola chicos");
         System.out.println("h");
         System.out.println("Gracias mauricio por tu ayuda");
+        System.out.println("otro mod");
+
     }
     
 }
